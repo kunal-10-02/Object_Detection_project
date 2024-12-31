@@ -32,7 +32,7 @@ This project is an innovative solution designed to assist visually impaired and 
 4.	Distance to each detected object is calculated and relayed to the user.
 
 🛠️ Setup and Installation : 
-1.	Clone the repository: git clone https://github.com/Object_Detection_project/object-detection-audio.git  
+1.	Clone the repository: https://github.com/kunal-10-02/Object_Detection_project
 2.	Install required dependencies: pip install -r requirements.txt  
 3.	Run the application: python run_me.py 
  
